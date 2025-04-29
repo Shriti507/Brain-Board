@@ -24,7 +24,7 @@ const Login = () => {
     <div className="login-body">
       <div className="login-container">
         <img 
-          src="public/Images/logo.png" 
+          src="/Images/logo.png" 
           alt="Brain Board Logo" 
           className="login-logo" 
         />
