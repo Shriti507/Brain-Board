@@ -6,7 +6,7 @@ Brain Board is a versatile and user-friendly note-taking app designed for studen
 
 ## Live Demo 💻
 
-[Link Text](brain-board-inky.vercel.app)
+[Brain Board](https://brain-board-inky.vercel.app)
 
 
 ## Features 🎯
