@@ -17,5 +17,10 @@ brain-board-inky.vercel.app
 -
 
 ## Tech Stack
+- HTML : Markup structure
+- CSS :  for styling and layout
+- Javascript : for logic and interactivity
+- React : Core library for building the user interface
+  
 
 
