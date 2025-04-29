@@ -1,22 +1,22 @@
-# Brain Board
+# Brain Board 📝
 
-## Project Overview
+## Project Overview 🌟
 Brain Board is a versatile and user-friendly note-taking app designed for students, teachers and teams for capturing, organizing, and sharing information. Brain Board offers a clean and intuitive interface that makes jotting down ideas, structuring lessons, or collaborating with colleagues effortless.
 
 
-## Live Demo
+## Live Demo 💻
 
 brain-board-inky.vercel.app
 
 
 
-## Features
+## Features 🎯
 -
 -
 -
 -
 
-## Tech Stack
+## Tech Stack 📚
 - HTML : Markup structure
 - CSS :  for styling and layout
 - Javascript : for logic and interactivity
